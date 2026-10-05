@@ -3,14 +3,14 @@
   A responsive task manager built with <b>React</b>, <b>TypeScript</b> and <b>SCSS</b>,<br/>
   fully synchronised with a <b>REST API</b> and covered by <b>end-to-end tests</b>.
 </p>
-<p align="center">
-  [DEMO_LINK](https://maximtsyrulnyk.github.io/react_todo-app_new/)
+
+  [TODO app](https://mate-academy.github.io/react_todo-app/)
   <img src="https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
   <img src="https://img.shields.io/badge/TypeScript-5.2-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Vite-5.3-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Cypress-13.13-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
   <img src="https://img.shields.io/badge/license-GPL--3.0-blue?style=for-the-badge" alt="License"/>
-</p>
+
 ---
 📑 Table of Contents
 Overview
