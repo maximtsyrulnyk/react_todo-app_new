@@ -7,7 +7,7 @@
 
 ### Demo
 
-You can view a live demo of the application: [DEMO](https://github.com/maximtsyrulnyk/react_todo-app_new.git)
+You can view a live demo of the application: [LIVE DEMO](https://maximtsyrulnyk.github.io/eact_todo-app_new/)
 
 ### Key Features
 <ul>
